@@ -1,4 +1,4 @@
-# Use instructions
+# Instructions
 Install dependencies
 ```
 npm install
